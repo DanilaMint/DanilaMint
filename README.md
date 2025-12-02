@@ -11,9 +11,9 @@ I am Danila Mint (Danila Kouzmenko). I interesting in programming and write low-
 
 # What have i made?
 
-![microstr](https://img.shields.io/badge/rust-microstr_0.4.0-orange?style=for-the-badge&logo=rust)
+[![microstr](https://img.shields.io/badge/rust-microstr_0.4.0-orange?style=for-the-badge&logo=rust)](https://github.com/DanilaMint/microstr)
 
-![quantsweeper](https://img.shields.io/badge/WASM-QuantSweeper-%235c54c4?style=for-the-badge&logo=webassembly&logoColor=white)
+[![quantsweeper](https://img.shields.io/badge/WASM-QuantSweeper-%235c54c4?style=for-the-badge&logo=webassembly&logoColor=white)](https://github.com/DanilaMint/quantsweeper)
 
 ## Contact me:
 <a href="t.me/matkrieg">
